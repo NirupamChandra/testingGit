@@ -1,0 +1,3 @@
+#use different ignore templates for different projects
+
+secrets.txt
